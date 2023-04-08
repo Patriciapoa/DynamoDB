@@ -1,0 +1,34 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Sonata Arctica"},
+                  "SongTitle": {"S": "Cloud Factory"},
+                  "AlbumTitle": {"S": "Pariah's Child"},
+                  "SongYear": {"S": "2014"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Helloween"},
+                  "SongTitle": {"S": "I Want Out"},
+                  "AlbumTitle": {"S": "Keeper of the Seven Keys PartII"},
+                  "SongYear": {"S": "1988"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Angra"},
+                  "SongTitle": {"S": "Carry On"},
+                  "AlbumTitle": {"S": "Reaching Horizons"},
+                  "SongYear": {"S": "1993"}
+                }
+            }
+        }
+      ]
+}
